@@ -1,0 +1,50 @@
+"Chats" = "Настройки чата";
+"RemoveAds" = "Убрать рекламу";
+"RemoveStories" = "Убрать баннер с историями";
+"RemovePYMK" = "Убрать «Знакомых»";
+"NoTypingIndicator" = "Запретить «Печатает...»";
+"ReadAnonymously" = "Анонимное чтение";
+"ReadAnonymouslyDesc" = "Сообщения можно отмечать прочитанными нажатием по иконки с эмоцией";
+
+"Stories" = "Настройки историй";
+"StoriesAnonymously" = "Анонимный просмотр";
+"StoriesAnonymouslyDesc" = "Истории можно отмечать просмотренными через меню";
+"LoopStories" = "Повтор историй";
+"DownloadStories" = "Загрузка историй";
+"DownloadStoriesDesc" = "Позволяет скачивать истории через меню";
+
+"Other" = "Другие настройки";
+"RemoveStoriesTab" = "Убрать вкладку «Истории»";
+"RemoveFriendsTab" = "Убрать вкладку «Друзья»";
+"NoAiCircle" = "Скрыть кнопку ИИ";
+"CallConfirmation" = "Подтверждать звонки";
+
+"Developer" = "Разработчики";
+
+"DiscordDesc" = "Место для быстрая помощи, отзыва и общения";
+"GithubDesc" = "Репозиторий Flow";
+"DvntmsDesc" = "Все мои репозитории в одном месте";
+
+"FollowMe" = "Подписаться на %@ в Twitter";
+"DonateMe" = "Flow полностью бесплатный. Вы можете угостить меня чашечкой кофе, чтобы поддержать разработку";
+"NA9" = "Nasser iPA Store";
+"StoreDesc" = "Сертификат разработчика и множество крутых приложений в одном месте";
+
+"DeveloperFooter" = "Создано с ❤️";
+
+"MessengerSettings" = "Настройки Messenger";
+"FlowSettings" = "Настройки Flow";
+
+"SelectAction" = "Выберите действие";
+"SendEmoji" = "Отправить эмодзи";
+"AudioCall" = "Аудиозвонок";
+"VideoCall" = "Видеозвонок";
+"Cancel" = "Отмена";
+"MarkMessagesAsSeen" = "Отметить прочитанным";
+"MarkStoryAsSeen" = "Отметить просмотренным";
+"DownloadStory" = "Скачать историю";
+"Downloading" = "Загрузка";
+"SavedToPhotos" = "Сохранено в фото";
+"FailedSaveImage" = "Не удалось сохранить фото";
+"FailedSaveVideo" = "Не удалось сохранить видео";
+"FailedDownloadVideo" = "Не удалось скачать видео";

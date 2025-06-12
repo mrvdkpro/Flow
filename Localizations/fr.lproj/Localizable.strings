@@ -1,0 +1,50 @@
+"Chats" = "Paramètres de discussion";
+"RemoveAds" = "Supprimer les publicités";
+"RemoveStories" = "Supprimer la bannière des stories";
+"RemovePYMK" = "Retirer \"Les gens que vous connaissez peut-être\"";
+"NoTypingIndicator" = "Désactiver l'indicateur de saisie";
+"ReadAnonymously" = "Lire les messages de manière anonyme";
+"ReadAnonymouslyDesc" = "Marquer les messages comme visibles disponibles en appuyant sur le bouton emoji";
+
+"Stories" = "Paramètres des stories";
+"StoriesAnonymously" = "Regardez des stories de manière anonyme";
+"StoriesAnonymouslyDesc" = "Marquer les stories comme vues disponibles dans le menu des stories";
+"LoopStories" = "Stories en boucle";
+"DownloadStories" = "Télécharger des stories";
+"DownloadStoriesDesc" = "Permet de télécharger des stories à partir du menu des stories";
+
+"Other" = "Autres paramètres";
+"RemoveStoriesTab" = "Supprimer \"Stories\" languette";
+"RemoveFriendsTab" = "Supprimer \"Amis\" languette";
+"NoAiCircle" = "Supprimer le cercle IA";
+"CallConfirmation" = "Exiger une confirmation d'appel";
+
+"Developer" = "Développeurs";
+
+"DiscordDesc" = "Rejoignez-nous pour obtenir de l'aide, des commentaires ou discuter";
+"GithubDesc" = "Le référentiel de Flow";
+"DvntmsDesc" = "Tous mes dépôts au même endroit";
+
+"FollowMe" = "Suivez %@ sur Twitter";
+"DonateMe" = "Flow est entièrement gratuit. N'hésitez pas à m'offrir un café pour soutenir son développement.";
+"NA9" = "Boutique Nasser iPA";
+"StoreDesc" = "Obtenez un certificat de développeur et profitez d'une large gamme d'applications exclusives";
+
+"DeveloperFooter" = "Codé avec ❤️";
+
+"MessengerSettings" = "Paramètres de messenger";
+"FlowSettings" = "Paramètres de Flow";
+
+"SelectAction" = "Sélectionnez une action";
+"SendEmoji" = "Envoyer des emoji";
+"AudioCall" = "Appel audio";
+"VideoCall" = "Appel vidéo";
+"Cancel" = "Annuler";
+"MarkMessagesAsSeen" = "Marquer les messages comme vus";
+"MarkStoryAsSeen" = "Marquer la storie comme vue";
+"DownloadStory" = "Télécharger la storie";
+"Downloading" = "Téléchargement";
+"SavedToPhotos" = "Enregistré dans les photos";
+"FailedSaveImage" = "Échec de l'enregistrement de l'image";
+"FailedSaveVideo" = "Échec de l'enregistrement de la vidéo";
+"FailedDownloadVideo" = "Échec du téléchargement de la vidéo";

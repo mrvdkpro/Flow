@@ -1,0 +1,49 @@
+"Chats" = "Chat settings";
+"RemoveAds" = "Remove ads";
+"RemoveStories" = "Remove stories banner";
+"RemovePYMK" = "Remove \"People you may know\"";
+"NoTypingIndicator" = "Disable typing indicator";
+"ReadAnonymously" = "Read messages anonymously";
+"ReadAnonymouslyDesc" = "Marking messages as seen available by tapping to emoji button";
+
+"Stories" = "Stories settings";
+"StoriesAnonymously" = "Watch stories anonymously";
+"StoriesAnonymouslyDesc" = "Marking stories as seen available from story menu";
+"LoopStories" = "Loop stories";
+"DownloadStories" = "Download stories";
+"DownloadStoriesDesc" = "Allows downloading stories from story menu";
+
+"Other" = "Other settings";
+"RemoveStoriesTab" = "Remove \"Stories\" tab";
+"RemoveFriendsTab" = "Remove \"Friends\" tab";
+"NoAiCircle" = "Remove AI circle";
+"CallConfirmation" = "Require call confirmation";
+
+"Developer" = "Developers";
+
+"DiscordDesc" = "Join for support, feedback, or a chat";
+"GithubDesc" = "Flow's repository";
+"DvntmsDesc" = "All my repos in one place";
+
+"FollowMe" = "Follow %@ on Twitter";
+"DonateMe" = "Flow is completely free. Feel free to buy me a coffee to support its development";
+"StoreDesc" = "Get a developer certificate and enjoy a wide range of exclusive apps";
+
+"DeveloperFooter" = "Coded with ❤️";
+
+"MessengerSettings" = "Messenger settings";
+"FlowSettings" = "Flow settings";
+
+"SelectAction" = "Select action";
+"SendEmoji" = "Send emoji";
+"AudioCall" = "Audio call";
+"VideoCall" = "Video call";
+"Cancel" = "Cancel";
+"MarkMessagesAsSeen" = "Mark messages as seen";
+"MarkStoryAsSeen" = "Mark story as seen";
+"DownloadStory" = "Download story";
+"Downloading" = "Downloading";
+"SavedToPhotos" = "Saved to the Photos";
+"FailedSaveImage" = "Failed to save image";
+"FailedSaveVideo" = "Failed to save video";
+"FailedDownloadVideo" = "Failed to download video";
