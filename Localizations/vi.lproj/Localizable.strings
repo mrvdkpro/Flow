@@ -1,0 +1,49 @@
+"Chats" = "Cài đặt trò chuyện";
+"RemoveAds" = "Gỡ quảng cáo";
+"RemoveStories" = "Gỡ banner stories";
+"RemovePYMK" = "Gỡ \"Những người có thể bạn quen biết\"";
+"NoTypingIndicator" = "Tắt hiển thị đang nhập";
+"ReadAnonymously" = "Đọc tin nhắn ẩn danh";
+"ReadAnonymouslyDesc" = "Đánh dấu đã xem tin nhắn bằng cách nhấn nút emoji";
+
+"Stories" = "Cài đặt stories";
+"StoriesAnonymously" = "Xem stories ẩn danh";
+"StoriesAnonymouslyDesc" = "Đánh dấu đã xem stories từ menu stories";
+"LoopStories" = "Lặp lại stories";
+"DownloadStories" = "Tải stories";
+"DownloadStoriesDesc" = "Cho phép tải stories từ menu stories";
+
+"Other" = "Cài đặt khác";
+"RemoveStoriesTab" = "Gỡ tab \"Stories\"";
+"RemoveFriendsTab" = "Gỡ tab \"Bạn bè\"";
+"NoAiCircle" = "Gỡ vòng tròn AI";
+"CallConfirmation" = "Yêu cầu xác nhận cuộc gọi";
+
+"Developer" = "Nhà phát triển";
+
+"DiscordDesc" = "Tham gia để nhận hỗ trợ, góp ý hoặc trò chuyện";
+"GithubDesc" = "Kho lưu trữ của Flow";
+"DvntmsDesc" = "Tất cả kho lưu trữ của tôi ở một nơi";
+
+"FollowMe" = "Theo dõi %@ trên Twitter";
+"DonateMe" = "Flow hoàn toàn miễn phí. Nếu thích, bạn có thể mời tôi một ly cà phê để ủng hộ phát triển ứng dụng";
+"StoreDesc" = "Nhận chứng chỉ nhà phát triển và tận hưởng nhiều ứng dụng độc quyền";
+
+"DeveloperFooter" = "Được lập trình bằng ❤️";
+
+"MessengerSettings" = "Cài đặt Messenger";
+"FlowSettings" = "Cài đặt Flow";
+
+"SelectAction" = "Chọn hành động";
+"SendEmoji" = "Gửi emoji";
+"AudioCall" = "Gọi âm thanh";
+"VideoCall" = "Gọi video";
+"Cancel" = "Huỷ";
+"MarkMessagesAsSeen" = "Đánh dấu tin nhắn đã xem";
+"MarkStoryAsSeen" = "Đánh dấu story đã xem";
+"DownloadStory" = "Tải story";
+"Downloading" = "Đang tải xuống";
+"SavedToPhotos" = "Đã lưu vào Ảnh";
+"FailedSaveImage" = "Lưu ảnh thất bại";
+"FailedSaveVideo" = "Lưu video thất bại";
+"FailedDownloadVideo" = "Tải video thất bại";
