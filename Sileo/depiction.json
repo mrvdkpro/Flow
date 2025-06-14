@@ -66,6 +66,36 @@
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
+        },
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0"
+                },
+                {
+                    "markdown": "- Initial release",
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Changelog"
+        },
+        {
+            "views": [
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "My Patreon",
+                    "action": "https://patreon.com/dayanch96"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy me a coffee",
+                    "action": "https://buymeacoffee.com/dayanch96"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Support"
         }
     ]
 }
