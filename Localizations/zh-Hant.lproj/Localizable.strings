@@ -1,0 +1,49 @@
+"Chats" = "聊天設定";
+"RemoveAds" = "移除廣告";
+"RemoveStories" = "移除便利貼橫幅";
+"RemovePYMK" = "移除 \"你可能認識的朋友\"";
+"NoTypingIndicator" = "停用輸入中...";
+"ReadAnonymously" = "隱身查看訊息";
+"ReadAnonymouslyDesc" = "點擊表情符號按鈕可將訊息標記為已讀";
+
+"Stories" = "限時動態設定";
+"StoriesAnonymously" = "隱身查看限時動態";
+"StoriesAnonymouslyDesc" = "從限時動態選單可標記限時動態為已觀看";
+"LoopStories" = "循環播放限時動態";
+"DownloadStories" = "下載限時動態";
+"DownloadStoriesDesc" = "允許從限時動態選單下載限時動態";
+
+"Other" = "其它設定";
+"RemoveStoriesTab" = "移除 \"限時動態\" 標籤";
+"RemoveFriendsTab" = "移除 \"朋友\" 標籤";
+"NoAiCircle" = "移除 AI 圈";
+"CallConfirmation" = "按下通話，會再次確認";
+
+"Developer" = "開發者";
+
+"DiscordDesc" = "加入獲得支援、提供回饋或聊天";
+"GithubDesc" = "Flow's 儲存庫";
+"DvntmsDesc" = "我的所有儲存庫集中在這裡";
+
+"FollowMe" = "在 X（Twitter）上跟隨 %@";
+"DonateMe" = "Flow 完全免費，隨手請我喝杯咖啡，支持開發吧！";
+"StoreDesc" = "取得開發者證書，享受多種獨家應用程式";
+
+"DeveloperFooter" = "用❤️編碼";
+
+"MessengerSettings" = "Messenger 設定";
+"FlowSettings" = "Flow 設定";
+
+"SelectAction" = "選擇動作";
+"SendEmoji" = "傳送表情符號";
+"AudioCall" = "語音通話";
+"VideoCall" = "視訊通話";
+"Cancel" = "取消";
+"MarkMessagesAsSeen" = "標記訊息為已讀";
+"MarkStoryAsSeen" = "標記限時動態為已觀看";
+"DownloadStory" = "下載限時動態";
+"Downloading" = "下載中...";
+"SavedToPhotos" = "已儲存至照片App";
+"FailedSaveImage" = "無法儲存圖片";
+"FailedSaveVideo" = "無法儲存影片";
+"FailedDownloadVideo" = "無法下載影片";
