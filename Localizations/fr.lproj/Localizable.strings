@@ -1,13 +1,13 @@
 "Chats" = "Paramètres de discussion";
 "RemoveAds" = "Supprimer les publicités";
 "RemoveStories" = "Supprimer la bannière des stories";
-"RemovePYMK" = "Retirer \"Les gens que vous connaissez peut-être\"";
+"RemovePYMK" = "Supprimer \"Connaissances possibles\"";
 "NoTypingIndicator" = "Désactiver l'indicateur de saisie";
-"ReadAnonymously" = "Lire les messages de manière anonyme";
+"ReadAnonymously" = "Lecture anonyme";
 "ReadAnonymouslyDesc" = "Marquer les messages comme visibles disponibles en appuyant sur le bouton emoji";
 
 "Stories" = "Paramètres des stories";
-"StoriesAnonymously" = "Regardez des stories de manière anonyme";
+"StoriesAnonymously" = "Regard anonyme";
 "StoriesAnonymouslyDesc" = "Marquer les stories comme vues disponibles dans le menu des stories";
 "LoopStories" = "Stories en boucle";
 "DownloadStories" = "Télécharger des stories";
