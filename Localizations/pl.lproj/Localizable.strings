@@ -1,0 +1,49 @@
+"Chats" = "Ustawienia czatu";
+"RemoveAds" = "Usuń reklamy";
+"RemoveStories" = "Usuń baner relacji";
+"RemovePYMK" = "Usuń \"Ludzie, których możesz znać\"";
+"NoTypingIndicator" = "Wyłącz wskaźnik pisania";
+"ReadAnonymously" = "Czytaj wiadomości anonimowo";
+"ReadAnonymouslyDesc" = "Oznaczanie wiadomości jako przeczytane dostępne po kliknięciu przycisku emoji";
+
+"Stories" = "Ustawienia relacji";
+"StoriesAnonymously" = "Oglądaj relacje anonimowo";
+"StoriesAnonymouslyDesc" = "Oznaczanie relacji jako obejrzane dostępne w menu relacji";
+"LoopStories" = "Zapętlaj relacje";
+"DownloadStories" = "Pobierz relacje";
+"DownloadStoriesDesc" = "Pozwala na pobieranie relacji z menu relacji";
+
+"Other" = "Inne ustawienia";
+"RemoveStoriesTab" = "Usuń zakładkę \"Relacje\"";
+"RemoveFriendsTab" = "Usuń zakładkę \"Znajomi\"";
+"NoAiCircle" = "Usuń krąg AI";
+"CallConfirmation" = "Wymagaj potwierdzenia połączenia";
+
+"Developer" = "Deweloperzy";
+
+"DiscordDesc" = "Dołącz po wsparcie, opinie lub czat";
+"GithubDesc" = "Repozytorium Flow";
+"DvntmsDesc" = "Wszystkie moje repozytoria w jednym miejscu";
+
+"FollowMe" = "Śledź %@ na Twitterze";
+"DonateMe" = "Flow jest całkowicie darmowy. Możesz postawić mi kawę, aby wesprzeć rozwój";
+"StoreDesc" = "Zdobądź certyfikat deweloperski i ciesz się szeroką gamą ekskluzywnych aplikacji";
+
+"DeveloperFooter" = "Zaprogramowano z ❤️";
+
+"MessengerSettings" = "Ustawienia Messengera";
+"FlowSettings" = "Ustawienia Flow";
+
+"SelectAction" = "Wybierz akcję";
+"SendEmoji" = "Wyślij emoji";
+"AudioCall" = "Połączenie głosowe";
+"VideoCall" = "Połączenie wideo";
+"Cancel" = "Anuluj";
+"MarkMessagesAsSeen" = "Oznacz wiadomości jako przeczytane";
+"MarkStoryAsSeen" = "Oznacz relację jako obejrzaną";
+"DownloadStory" = "Pobierz relację";
+"Downloading" = "Pobieranie";
+"SavedToPhotos" = "Zapisano w Zdjęciach";
+"FailedSaveImage" = "Nie udało się zapisać obrazu";
+"FailedSaveVideo" = "Nie udało się zapisać wideo";
+"FailedDownloadVideo" = "Nie udało się pobrać wideo";
