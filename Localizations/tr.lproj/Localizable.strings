@@ -1,0 +1,49 @@
+"Chats" = "Sohbet ayarları";
+"RemoveAds" = "Reklamları kaldır";
+"RemoveStories" = "Hikaye banner'ını kaldır";
+"RemovePYMK" = "Kişi önerilerini kaldır";
+"NoTypingIndicator" = "Yazıyor bilgisini gizle";
+"ReadAnonymously" = "Mesajları anonim olarak oku";
+"ReadAnonymouslyDesc" = "Mesajları görüldü olarak işaretlemek için emoji butonuna dokun";
+
+"Stories" = "Hikaye ayarları";
+"StoriesAnonymously" = "Hikayeleri anonim olarak izle";
+"StoriesAnonymouslyDesc" = "Hikayeleri görüldü olarak işaretlemek Hikaye menüsünden yapılabilir";
+"LoopStories" = "Hikayeleri döngüye al";
+"DownloadStories" = "Hikayeleri indir";
+"DownloadStoriesDesc" = "Hikayeleri Hikaye menüsünden indirmenizi sağlar";
+
+"Other" = "Diğer ayarlar";
+"RemoveStoriesTab" = "\"Hikayeler\" sekmesini kaldır";
+"RemoveFriendsTab" = "\"Arkadaşlar\" sekmesini kaldır";
+"NoAiCircle" = "Yapay zeka simgesini kaldır";
+"CallConfirmation" = "Arama onayı iste";
+
+"Developer" = "Geliştiriciler";
+
+"DiscordDesc" = "Destek, geri bildirim veya sohbet için katıl";
+"GithubDesc" = "Flow'un reposu";
+"DvntmsDesc" = "Tüm projelerim tek bir yerde";
+
+"FollowMe" = "%@'yı Twitter'da takip et";
+"DonateMe" = "Flow tamamen ücretsizdir. Destek olmak isterseniz bir kahve ısmarlayabilirsiniz";
+"StoreDesc" = "Geliştirici sertifikası al ve birçok özel uygulamaya eriş";
+
+"DeveloperFooter" = "Sevgiyle kodlandı ❤️";
+
+"MessengerSettings" = "Messenger ayarları";
+"FlowSettings" = "Flow ayarları";
+
+"SelectAction" = "Bir eylem seçin";
+"SendEmoji" = "Emoji gönder";
+"AudioCall" = "Sesli arama";
+"VideoCall" = "Görüntülü arama";
+"Cancel" = "İptal et";
+"MarkMessagesAsSeen" = "Mesajları görüldü olarak işaretle";
+"MarkStoryAsSeen" = "Hikayeyi görüldü olarak işaretle";
+"DownloadStory" = "Hikayeyi indir";
+"Downloading" = "İndiriliyor";
+"SavedToPhotos" = "Fotoğraflara kaydedildi";
+"FailedSaveImage" = "Görsel kaydedilemedi";
+"FailedSaveVideo" = "Video kaydedilemedi";
+"FailedDownloadVideo" = "Video indirilemedi";
