@@ -84,7 +84,7 @@ jobs:
             exit 1
           fi
 
-          echo "GLOW_TAG=$tag_name" >> $GITHUB_ENV
+          echo "FLOW_TAG=$tag_name" >> $GITHUB_ENV
           echo "Downloading: $deb_url"
           wget "$deb_url" --no-verbose -O ${{ github.workspace }}/flow_messenger.deb
 
@@ -93,7 +93,7 @@ jobs:
 
       - uses: softprops/action-gh-release@v2.0.1
         with:
-          tag_name: glow-fb-${{ env.FLOW_TAG }}
+          tag_name: flow-messenger-${{ env.FLOW_TAG }}
           name: Flow_Messenger ${{ env.FLOW_TAG }}
           files: Flow_Messenger_${{ env.FLOW_TAG }}.ipa
           draft: true
