@@ -89,7 +89,7 @@ jobs:
           wget "$deb_url" --no-verbose -O ${{ github.workspace }}/flow_messenger.deb
 
       - name: Inject tweaks into IPA
-        run: cyan -i messenger.ipa -o Flow_Messenger_${{ env.GLOW_TAG }}.ipa -uwef flow_messenger.deb -n "${{ inputs.display_name }}" -b ${{ inputs.bundle_id }} -s
+        run: cyan -i messenger.ipa -o Flow_Messenger_${{ env.FLOW_TAG }}.ipa -uwef flow_messenger.deb -n "${{ inputs.display_name }}" -b ${{ inputs.bundle_id }} -s
 
       - uses: softprops/action-gh-release@v2.0.1
         with:
